@@ -1,0 +1,15 @@
+C:\Users\rodri\Documents\Projetos\ProjetoRocketseatCSharp\ExerciciosRocketseat\ExerciciosRocketseat\bin\Debug\net8.0\ExerciciosRocketseat.exe
+C:\Users\rodri\Documents\Projetos\ProjetoRocketseatCSharp\ExerciciosRocketseat\ExerciciosRocketseat\bin\Debug\net8.0\ExerciciosRocketseat.deps.json
+C:\Users\rodri\Documents\Projetos\ProjetoRocketseatCSharp\ExerciciosRocketseat\ExerciciosRocketseat\bin\Debug\net8.0\ExerciciosRocketseat.runtimeconfig.json
+C:\Users\rodri\Documents\Projetos\ProjetoRocketseatCSharp\ExerciciosRocketseat\ExerciciosRocketseat\bin\Debug\net8.0\ExerciciosRocketseat.dll
+C:\Users\rodri\Documents\Projetos\ProjetoRocketseatCSharp\ExerciciosRocketseat\ExerciciosRocketseat\bin\Debug\net8.0\ExerciciosRocketseat.pdb
+C:\Users\rodri\Documents\Projetos\ProjetoRocketseatCSharp\ExerciciosRocketseat\ExerciciosRocketseat\obj\Debug\net8.0\ExerciciosRocketseat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\Projetos\ProjetoRocketseatCSharp\ExerciciosRocketseat\ExerciciosRocketseat\obj\Debug\net8.0\ExerciciosRocketseat.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\Projetos\ProjetoRocketseatCSharp\ExerciciosRocketseat\ExerciciosRocketseat\obj\Debug\net8.0\ExerciciosRocketseat.AssemblyInfo.cs
+C:\Users\rodri\Documents\Projetos\ProjetoRocketseatCSharp\ExerciciosRocketseat\ExerciciosRocketseat\obj\Debug\net8.0\ExerciciosRocketseat.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\Projetos\ProjetoRocketseatCSharp\ExerciciosRocketseat\ExerciciosRocketseat\obj\Debug\net8.0\ExerciciosRocketseat.sourcelink.json
+C:\Users\rodri\Documents\Projetos\ProjetoRocketseatCSharp\ExerciciosRocketseat\ExerciciosRocketseat\obj\Debug\net8.0\ExerciciosRocketseat.dll
+C:\Users\rodri\Documents\Projetos\ProjetoRocketseatCSharp\ExerciciosRocketseat\ExerciciosRocketseat\obj\Debug\net8.0\refint\ExerciciosRocketseat.dll
+C:\Users\rodri\Documents\Projetos\ProjetoRocketseatCSharp\ExerciciosRocketseat\ExerciciosRocketseat\obj\Debug\net8.0\ExerciciosRocketseat.pdb
+C:\Users\rodri\Documents\Projetos\ProjetoRocketseatCSharp\ExerciciosRocketseat\ExerciciosRocketseat\obj\Debug\net8.0\ExerciciosRocketseat.genruntimeconfig.cache
+C:\Users\rodri\Documents\Projetos\ProjetoRocketseatCSharp\ExerciciosRocketseat\ExerciciosRocketseat\obj\Debug\net8.0\ref\ExerciciosRocketseat.dll
